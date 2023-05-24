@@ -1,0 +1,7 @@
+Utilizador:user1@gmail.com
+Número da Encomenda:3
+Dimensão da Embalagem: Pequeno
+Data de Compra: 2023-05-17T14:23:55.823539425
+Artigos: 
+LGqAIoqkIDp8--Sapatilha Nike, Novo: false, Estado: RAZOAVEL, Nº de donos: 3, Preço Base: 159.99, Descrição: Sapatilha nova na caixa, Tamanho: 40.0, Atacadores: true, Cor: Vermelha, Coleção: 2021-01-01, Preço Atual: 142.21333333333334
+Preço Final (c/IVA): 147.17205883333332

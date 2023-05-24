@@ -1,0 +1,2 @@
+henrique@vaz.pt, Henrique Vaz, 25
+user@example.com, John Doe, 25

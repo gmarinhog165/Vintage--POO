@@ -1,0 +1,8 @@
+Utilizador:goncalo@goncalves.pt
+Número da Encomenda:2
+Dimensão da Embalagem: Medio
+Data de Compra: 2023-05-17T14:23:55.823517673
+Artigos: 
+MJHVTsQDwVIp--Sapatilha Vans, Novo: true, Preço Base: 180.0, Descrição: Sapatilha feminina de camurça, Tamanho: 38.5, Atacadores: true, Cor: Roxo, Coleção: 2013-09-30, Preço Atual: 180.0
+rb0cbUBXwJve--T-shirt Dragon Lore, Novo: true, Preço Base: 99.0, Descrição: Tshirt nova, Tamanho: L, Padrão: LISO, Preço Atual: 99.0
+Preço Final (c/IVA): 287.2996325

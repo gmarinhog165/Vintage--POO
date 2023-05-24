@@ -1,0 +1,8 @@
+Utilizador:user3@gmail.com
+Número da Encomenda:5
+Dimensão da Embalagem: Medio
+Data de Compra: 2023-05-14T21:32:28.752843503
+Artigos: 
+v47VGVkfIdIY--T-shirt Ferrari, Novo: true, Preço Base: 110.0, Descrição: Tshirt nova, Tamanho: XL, Padrão: LISO, Preço Atual: 110.0
+GrSj6qmQramx--Mala Tous, Novo: true, Preço Base: 40.0, Descrição: Artigo novo, Dimensão: GRANDE, Material: pele sintética, Coleção: 2023-12-12, Preço Atual: 36.0
+Preço Final (c/IVA): 156.5035615

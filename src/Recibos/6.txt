@@ -1,0 +1,10 @@
+Utilizador:asd
+Número da Encomenda:6
+Dimensão da Embalagem: Medio
+Data de Compra: 2023-05-14T22:32:27.493244353
+Artigos: 
+niKK7sfnkPh8--Sapatilha Premium Under Armour, Novo: false, Estado: PESSIMO, Nº de donos: 5, Preço Base: 179.99, Descrição: Sapatilha de lançamento, Tamanho: 41.0, Atacadores: true, Cor: Verde, Coleção: 2017-02-01, Preço Atual: 287.98400000000004
+0tUdHgbnGzP8--Sapatilha Adidas, Novo: false, Estado: BOM, Nº de donos: 1, Preço Base: 129.99, Descrição: Sapatilha em ótimo estado, Tamanho: 37.5, Atacadores: true, Cor: Branca, Coleção: 2020-03-01, Preço Atual: 64.995
+hJCPGfYmSSpO--T-shirt Puma, Novo: false, Estado: MUITO_BOM, Nº de donos: 3, Preço Base: 20.0, Descrição: T-shirt azul com listras, Tamanho: XL, Padrão: LISO, Preço Atual: 20.0
+opOtFGaohaeU--T-shirt Nike, Novo: false, Estado: BOM, Nº de donos: 5, Preço Base: 30.0, Descrição: T-shirt branca lisa, Tamanho: L, Padrão: LISO, Preço Atual: 30.0
+Preço Final (c/IVA): 424.7406705

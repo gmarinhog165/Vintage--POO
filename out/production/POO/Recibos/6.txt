@@ -1,0 +1,8 @@
+Utilizador:asd
+Número da Encomenda:6
+Dimensão da Embalagem: Medio
+Data de Compra: 2023-05-17T14:23:47.669714283
+Artigos: 
+Qg8yZhvx7cp8--Mala Rimowa, Novo: false, Estado: RAZOAVEL, Nº de donos: 3, Preço Base: 1200.0, Descrição: Mala de viagem grande nova, Dimensão: GRANDE, Material: Poliéster, Coleção: 2024-05-30, Preço Atual: 1080.0
+9Yh2OKIjfpOS--T-shirt Under Armour, Novo: false, Estado: PESSIMO, Nº de donos: 2, Preço Base: 40.0, Descrição: T-shirt vermelha com padrão, Tamanho: S, Padrão: RISCAS, Preço Atual: 20.0
+Preço Final (c/IVA): 1114.752038

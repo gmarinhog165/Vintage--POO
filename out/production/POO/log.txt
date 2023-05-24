@@ -1,0 +1,65 @@
+Transportadora:ctt,0.07,13.256176499999999
+Transportadora:mrw premium,0.15,28.436625
+Transportadora:dhl,0.06,4.377429
+Transportadora:gls,0.05,19.518030000000003
+Utilizador:henrique@vaz.pt,Henrique Vaz,Rua das cenas, n12,260485489,122.5,221.2
+Mala_vender:true,Artigo novo,prada,245.0,GRANDE,pele sintética,2023-12-12,dhl
+Sapatilha_vender:true,Sapatilha feminina de tecido,Nike,200.0,36.5,true,Cinza,2022-08-15,gls
+Tshirt_vendida:true,Tshirt nova,Ferrari,110.0,XL,LISO,gls
+EncomendaComprada:1,Medio,2023-05-17T14:23:55.822944112,Expedida,220.544858,0Ph0zuXdECh2--T-shirt Puma, Novo: true, Preço Base: 60.0, Descrição: Tshirt nova, Tamanho: XL, Padrão: LISO, Preço Atual: 60.0,Ejp37BBUZo3t--T-shirt Nude project, Novo: true, Preço Base: 150.0, Descrição: Tshirt nova, Tamanho: L, Padrão: PALMEIRAS, Preço Atual: 150.0
+EncomendaVendida:5,Medio,2023-05-17T14:23:55.823556077,Expedida,156.5035615,9ai5CkzQikCp--Mala Tous, Novo: true, Preço Base: 40.0, Descrição: Artigo novo, Dimensão: GRANDE, Material: pele sintética, Coleção: 2023-12-12, Preço Atual: 36.0,pN7gf4Vq6037--T-shirt Ferrari, Novo: true, Preço Base: 110.0, Descrição: Tshirt nova, Tamanho: XL, Padrão: LISO, Preço Atual: 110.0
+Utilizador:asd,Inês Silva,Rua J, nº 100,147258369,0.0,1100.0
+EncomendaComprada:6,Medio,2023-05-17T14:23:47.669714283,Expedida,1114.752038,Qg8yZhvx7cp8--Mala Rimowa, Novo: false, Estado: RAZOAVEL, Nº de donos: 3, Preço Base: 1200.0, Descrição: Mala de viagem grande nova, Dimensão: GRANDE, Material: Poliéster, Coleção: 2024-05-30, Preço Atual: 1080.0,9Yh2OKIjfpOS--T-shirt Under Armour, Novo: false, Estado: PESSIMO, Nº de donos: 2, Preço Base: 40.0, Descrição: T-shirt vermelha com padrão, Tamanho: S, Padrão: RISCAS, Preço Atual: 20.0
+Utilizador:goncalo@goncalves.pt,Gonçalo Gonçalves,Rua das batatas, n15,123456789,280.4,430.1
+Sapatilha_vender:true,Sapatilha masculina de couro,Adidas,250.0,42.0,false,Preto,2021-04-01,ctt
+Tshirt_vendida:true,Tshirt nova,Dragon Lore,99.0,L,LISO,gls
+Mala_vendida:true,Artigo novo,Tous,40.0,GRANDE,pele sintética,2023-12-12,dhl
+EncomendaComprada:2,Medio,2023-05-17T14:23:55.823517673,Expedida,287.2996325,MJHVTsQDwVIp--Sapatilha Vans, Novo: true, Preço Base: 180.0, Descrição: Sapatilha feminina de camurça, Tamanho: 38.5, Atacadores: true, Cor: Roxo, Coleção: 2013-09-30, Preço Atual: 180.0,rb0cbUBXwJve--T-shirt Dragon Lore, Novo: true, Preço Base: 99.0, Descrição: Tshirt nova, Tamanho: L, Padrão: LISO, Preço Atual: 99.0
+EncomendaVendida:2,Medio,2023-05-17T14:23:55.823517673,Expedida,287.2996325,MJHVTsQDwVIp--Sapatilha Vans, Novo: true, Preço Base: 180.0, Descrição: Sapatilha feminina de camurça, Tamanho: 38.5, Atacadores: true, Cor: Roxo, Coleção: 2013-09-30, Preço Atual: 180.0,rb0cbUBXwJve--T-shirt Dragon Lore, Novo: true, Preço Base: 99.0, Descrição: Tshirt nova, Tamanho: L, Padrão: LISO, Preço Atual: 99.0
+EncomendaVendida:5,Medio,2023-05-17T14:23:55.823556077,Expedida,156.5035615,9ai5CkzQikCp--Mala Tous, Novo: true, Preço Base: 40.0, Descrição: Artigo novo, Dimensão: GRANDE, Material: pele sintética, Coleção: 2023-12-12, Preço Atual: 36.0,pN7gf4Vq6037--T-shirt Ferrari, Novo: true, Preço Base: 110.0, Descrição: Tshirt nova, Tamanho: XL, Padrão: LISO, Preço Atual: 110.0
+Utilizador:user1@gmail.com,João Silva,Rua A, nº 10,123456789,0.0,142.21333333333334
+Mala_vender:true,Mala de viagem nova,Samsonite,300.0,PEQUENO,Couro sintético,2019-06-30,gls
+Sapatilha_vender:true,Sapatilha infantil de tecido,Puma,100.0,28.0,true,Rosa,2019-06-30,dhl
+Tshirt_vender:true,Tshirt nova,Lacoste,90.0,L,PALMEIRAS,ctt
+EncomendaComprada:3,Pequeno,2023-05-17T14:23:55.823539425,Expedida,147.17205883333332,LGqAIoqkIDp8--Sapatilha Nike, Novo: false, Estado: RAZOAVEL, Nº de donos: 3, Preço Base: 159.99, Descrição: Sapatilha nova na caixa, Tamanho: 40.0, Atacadores: true, Cor: Vermelha, Coleção: 2021-01-01, Preço Atual: 142.21333333333334
+Utilizador:user3@gmail.com,Pedro Oliveira,Rua C, nº 30,456789123,330.0,146.0
+Mala_vender:true,Mala executiva nova,Tumi,400.0,GRANDE,Couro,2021-07-31,ctt
+Tshirt_vendida:true,Tshirt nova,Nude project,150.0,L,PALMEIRAS,ctt
+Sapatilha_vendida:true,Sapatilha feminina de camurça,Vans,180.0,38.5,true,Roxo,2013-09-30,gls
+EncomendaComprada:5,Medio,2023-05-17T14:23:55.823556077,Expedida,156.5035615,9ai5CkzQikCp--Mala Tous, Novo: true, Preço Base: 40.0, Descrição: Artigo novo, Dimensão: GRANDE, Material: pele sintética, Coleção: 2023-12-12, Preço Atual: 36.0,pN7gf4Vq6037--T-shirt Ferrari, Novo: true, Preço Base: 110.0, Descrição: Tshirt nova, Tamanho: XL, Padrão: LISO, Preço Atual: 110.0
+EncomendaVendida:1,Medio,2023-05-17T14:23:55.822944112,Expedida,220.544858,0Ph0zuXdECh2--T-shirt Puma, Novo: true, Preço Base: 60.0, Descrição: Tshirt nova, Tamanho: XL, Padrão: LISO, Preço Atual: 60.0,Ejp37BBUZo3t--T-shirt Nude project, Novo: true, Preço Base: 150.0, Descrição: Tshirt nova, Tamanho: L, Padrão: PALMEIRAS, Preço Atual: 150.0
+EncomendaVendida:2,Medio,2023-05-17T14:23:55.823517673,Expedida,287.2996325,MJHVTsQDwVIp--Sapatilha Vans, Novo: true, Preço Base: 180.0, Descrição: Sapatilha feminina de camurça, Tamanho: 38.5, Atacadores: true, Cor: Roxo, Coleção: 2013-09-30, Preço Atual: 180.0,rb0cbUBXwJve--T-shirt Dragon Lore, Novo: true, Preço Base: 99.0, Descrição: Tshirt nova, Tamanho: L, Padrão: LISO, Preço Atual: 99.0
+Utilizador:user4@yahoo.com,Mariana Santos,Rua D, nº 40,789123456,0.0,0.0
+Sapatilha_vender:false,1,BOM,Sapatilha em ótimo estado,Adidas,129.99,37.5,true,Branca,2020-03-01,gls
+Tshirt_vender:false,5,BOM,T-shirt branca lisa,Nike,30.0,gls,L,LISO
+Mala_vender:false,5,BOM,Mala de mão usada,Louis Vuitton,800.0,PEQUENO,Couro,2022-12-31,gls
+Utilizador:user8@gmail.com,Marta Santos,Rua H, nº 80,753159246,20.0,0.0
+Sapatilha_vender:false,5,PESSIMO,Sapatilha de lançamento,Under Armour,179.99,41.0,true,Verde,2017-02-01,mrw premium
+Mala_vender:false,2,PESSIMO,Mala executiva usada,Montblanc,900.0,MEDIO,Couro,2020-09-30,ctt
+Mala_vender:false,2,PESSIMO,Mala executiva usada,Montblanc,900.0,MEDIO,Couro,2020-09-30,mrw premium
+Sapatilha_vender:false,5,PESSIMO,Sapatilha de lançamento,Under Armour,179.99,41.0,true,Verde,2017-02-01,mrw premium
+Tshirt_vendida:false,2,PESSIMO,T-shirt vermelha com padrão,Under Armour,40.0,ctt,S,RISCAS
+EncomendaVendida:6,Medio,2023-05-17T14:23:47.669714283,Expedida,1114.752038,Qg8yZhvx7cp8--Mala Rimowa, Novo: false, Estado: RAZOAVEL, Nº de donos: 3, Preço Base: 1200.0, Descrição: Mala de viagem grande nova, Dimensão: GRANDE, Material: Poliéster, Coleção: 2024-05-30, Preço Atual: 1080.0,9Yh2OKIjfpOS--T-shirt Under Armour, Novo: false, Estado: PESSIMO, Nº de donos: 2, Preço Base: 40.0, Descrição: T-shirt vermelha com padrão, Tamanho: S, Padrão: RISCAS, Preço Atual: 20.0
+Utilizador:user7@yahoo.com,Ricardo Pereira,Rua G, nº 70,159357246,750.0,0.0
+Tshirt_vender:false,3,MAU,T-shirt cinza com logotipo,Fila,35.0,dhl,S,PALMEIRAS
+Sapatilha_vender:false,2,MAU,Sapatilha em bom estado,Reebok,99.99,38.5,true,Azul,2022-06-01,ctt
+Mala_vendida:false,4,MAU,Mala de mão premium nova,Prada,1000.0,PEQUENO,Couro,2023-08-31,gls
+EncomendaVendida:4,Medio,2023-05-17T14:23:55.823548511,Expedida,1212.769445,39YD5mocab83--Mala Tumi, Novo: false, Estado: MUITO_BOM, Nº de donos: 2, Preço Base: 500.0, Descrição: Mala de rodinhas usada, Dimensão: MEDIO, Material: Nylon, Coleção: 2023-11-15, Preço Atual: 425.0,rWK7naFedh9T--T-shirt Adidas, Novo: false, Estado: RAZOAVEL, Nº de donos: 2, Preço Base: 25.0, Descrição: T-shirt preta estampada, Tamanho: M, Padrão: PALMEIRAS, Preço Atual: 12.5,BXrkXDof8p01--Mala Prada, Novo: false, Estado: MAU, Nº de donos: 4, Preço Base: 1000.0, Descrição: Mala de mão premium nova, Dimensão: PEQUENO, Material: Couro, Coleção: 2023-08-31, Preço Atual: 750.0
+Utilizador:user2@hotmail.com,Ana Santos,Rua B, nº 20,987654321,60.0,1187.5
+Mala_vender:true,Mala de rodinhas usada,Delsey,200.0,MEDIO,Poliéster,2022-05-15,gls
+Sapatilha_vender:true,Sapatilha unissex de couro,Converse,150.0,39.5,false,Branco,2009-12-31,mrw premium
+Tshirt_vendida:true,Tshirt nova,Puma,60.0,XL,LISO,gls
+EncomendaComprada:4,Medio,2023-05-17T14:23:55.823548511,Expedida,1212.769445,39YD5mocab83--Mala Tumi, Novo: false, Estado: MUITO_BOM, Nº de donos: 2, Preço Base: 500.0, Descrição: Mala de rodinhas usada, Dimensão: MEDIO, Material: Nylon, Coleção: 2023-11-15, Preço Atual: 425.0,rWK7naFedh9T--T-shirt Adidas, Novo: false, Estado: RAZOAVEL, Nº de donos: 2, Preço Base: 25.0, Descrição: T-shirt preta estampada, Tamanho: M, Padrão: PALMEIRAS, Preço Atual: 12.5,BXrkXDof8p01--Mala Prada, Novo: false, Estado: MAU, Nº de donos: 4, Preço Base: 1000.0, Descrição: Mala de mão premium nova, Dimensão: PEQUENO, Material: Couro, Coleção: 2023-08-31, Preço Atual: 750.0
+EncomendaVendida:1,Medio,2023-05-17T14:23:55.822944112,Expedida,220.544858,0Ph0zuXdECh2--T-shirt Puma, Novo: true, Preço Base: 60.0, Descrição: Tshirt nova, Tamanho: XL, Padrão: LISO, Preço Atual: 60.0,Ejp37BBUZo3t--T-shirt Nude project, Novo: true, Preço Base: 150.0, Descrição: Tshirt nova, Tamanho: L, Padrão: PALMEIRAS, Preço Atual: 150.0
+Utilizador:user5@gmail.com,Bruno Oliveira,Rua E, nº 50,321654987,1234.7133333333334,0.0
+Sapatilha_vendida:false,3,RAZOAVEL,Sapatilha nova na caixa,Nike,159.99,40.0,true,Vermelha,2021-01-01,ctt
+Tshirt_vendida:false,2,RAZOAVEL,T-shirt preta estampada,Adidas,25.0,mrw premium,M,PALMEIRAS
+Mala_vendida:false,3,RAZOAVEL,Mala de viagem grande nova,Rimowa,1200.0,GRANDE,Poliéster,2024-05-30,mrw premium
+EncomendaVendida:6,Medio,2023-05-17T14:23:47.669714283,Expedida,1114.752038,Qg8yZhvx7cp8--Mala Rimowa, Novo: false, Estado: RAZOAVEL, Nº de donos: 3, Preço Base: 1200.0, Descrição: Mala de viagem grande nova, Dimensão: GRANDE, Material: Poliéster, Coleção: 2024-05-30, Preço Atual: 1080.0,9Yh2OKIjfpOS--T-shirt Under Armour, Novo: false, Estado: PESSIMO, Nº de donos: 2, Preço Base: 40.0, Descrição: T-shirt vermelha com padrão, Tamanho: S, Padrão: RISCAS, Preço Atual: 20.0
+EncomendaVendida:3,Pequeno,2023-05-17T14:23:55.823539425,Expedida,147.17205883333332,LGqAIoqkIDp8--Sapatilha Nike, Novo: false, Estado: RAZOAVEL, Nº de donos: 3, Preço Base: 159.99, Descrição: Sapatilha nova na caixa, Tamanho: 40.0, Atacadores: true, Cor: Vermelha, Coleção: 2021-01-01, Preço Atual: 142.21333333333334
+EncomendaVendida:4,Medio,2023-05-17T14:23:55.823548511,Expedida,1212.769445,39YD5mocab83--Mala Tumi, Novo: false, Estado: MUITO_BOM, Nº de donos: 2, Preço Base: 500.0, Descrição: Mala de rodinhas usada, Dimensão: MEDIO, Material: Nylon, Coleção: 2023-11-15, Preço Atual: 425.0,rWK7naFedh9T--T-shirt Adidas, Novo: false, Estado: RAZOAVEL, Nº de donos: 2, Preço Base: 25.0, Descrição: T-shirt preta estampada, Tamanho: M, Padrão: PALMEIRAS, Preço Atual: 12.5,BXrkXDof8p01--Mala Prada, Novo: false, Estado: MAU, Nº de donos: 4, Preço Base: 1000.0, Descrição: Mala de mão premium nova, Dimensão: PEQUENO, Material: Couro, Coleção: 2023-08-31, Preço Atual: 750.0
+Utilizador:user6@hotmail.com,Catarina Silva,Rua F, nº 60,654987321,425.0,0.0
+Sapatilha_vender:false,3,MUITO_BOM,Sapatilha com uso moderado,Puma,89.99,39.0,false,Preta,2022-09-01,dhl
+Tshirt_vender:false,3,MUITO_BOM,T-shirt azul com listras,Puma,20.0,ctt,XL,LISO
+Mala_vendida:false,2,MUITO_BOM,Mala de rodinhas usada,Tumi,500.0,MEDIO,Nylon,2023-11-15,mrw premium
+EncomendaVendida:4,Medio,2023-05-17T14:23:55.823548511,Expedida,1212.769445,39YD5mocab83--Mala Tumi, Novo: false, Estado: MUITO_BOM, Nº de donos: 2, Preço Base: 500.0, Descrição: Mala de rodinhas usada, Dimensão: MEDIO, Material: Nylon, Coleção: 2023-11-15, Preço Atual: 425.0,rWK7naFedh9T--T-shirt Adidas, Novo: false, Estado: RAZOAVEL, Nº de donos: 2, Preço Base: 25.0, Descrição: T-shirt preta estampada, Tamanho: M, Padrão: PALMEIRAS, Preço Atual: 12.5,BXrkXDof8p01--Mala Prada, Novo: false, Estado: MAU, Nº de donos: 4, Preço Base: 1000.0, Descrição: Mala de mão premium nova, Dimensão: PEQUENO, Material: Couro, Coleção: 2023-08-31, Preço Atual: 750.0
